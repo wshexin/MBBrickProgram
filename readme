@@ -1,0 +1,9 @@
+使用代码
+1.lengtest_path.cpp求得两点间最长路径，结果输出到lengtestpath.txt
+2.MBLDecision_V2.cpp
+3.jiecheng.cpp根据给定i，求得当前组合
+4.LLFSchedule_V2.cpp流量调度
+5.FlowCreate.cpp产生流量，写入flow.txt
+6.MBnumberDecision.cpp确定统一的MB数目分布和开销曲线，求得拐点
+7.SIMPLE_schedule_V1.cpp为SIMPLE方案下流量调度
+
